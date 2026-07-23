@@ -237,7 +237,7 @@ CAT-20260003
 
 ## Entity Relationship Diagram
 
-![ERD](images/erd.png)
+![ERD](images/ERD.png)
 
 ## Table Design
 
